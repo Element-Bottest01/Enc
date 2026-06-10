@@ -1,6 +1,6 @@
-mediainfo
 ffmpeg
+mediainfo
 imagemagick
-libmagic
+libmagic1
 aria2
 qbittorrent-nox
