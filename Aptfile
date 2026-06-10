@@ -2,3 +2,5 @@ mediainfo
 ffmpeg
 imagemagick
 libmagic
+aria2
+qbittorrent-nox
